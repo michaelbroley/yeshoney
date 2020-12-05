@@ -360,7 +360,7 @@ input[type="checkbox"] {
     background: #000;
 }
 .owl-theme .owl-nav [class*=owl-] {
-    background-color: #a2783a;
+    background-color: #dda615;
     width: 30px;
     height: 30px;
     line-height: 25px;
@@ -371,7 +371,7 @@ input[type="checkbox"] {
     font-size: 12px;
     margin: 5px;
     padding: 4px 7px;
-    background: #a2783a;
+    background: #dda615;
     display: inline-block;
     cursor: pointer;
     border-radius: 3px;
@@ -387,8 +387,8 @@ input[type="checkbox"] {
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
     background-color: transparent;
-    border: 1px solid #a2783a;
-    color: #a2783a;
+    border: 1px solid #dda615;
+    color: #dda615;
 }
 .bg-pink {
     background-color: rgba(227,191,182,0.1);
@@ -479,13 +479,13 @@ input[type="checkbox"] {
 #pwe-logo-footer a {
     display: inline-block;
     text-align: center;
-    color: #a2783a;
+    color: #dda615;
 }
 #pwe-aside #pwe-logo a span {
     display: block;
     font-family: TuesdayNight;
     font-size: 24px;
-    color: #a2783a;
+    color: #dda615;
     font-weight: 500;
     letter-spacing: 1px;
     display: block;
@@ -536,7 +536,7 @@ input[type="checkbox"] {
     transition: all .5s ease-in-out
 }
 #pwe-aside #pwe-main-menu ul li.pwe-active a {
-    color: #a2783a;
+    color: #dda615;
 }
 #pwe-aside #pwe-main-menu ul li.pwe-active a:after {
     visibility: visible;
@@ -812,7 +812,7 @@ body.offcanvas .pwe-nav-toggle {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     line-height: 1.2em;
-    color: #a2783a;
+    color: #dda615;
     font-style: italic;
 }
 .pwe-post-heading {
@@ -929,7 +929,7 @@ body.offcanvas .pwe-nav-toggle {
     margin: 0 5px;
 }
 .team .info .social a:hover {
-    color: #a2783a;
+    color: #dda615;
 }
 
 
@@ -1021,7 +1021,7 @@ body.offcanvas .pwe-nav-toggle {
     float: right;
 }
 .testimonials .item-box .info i {
-    color: #a2783a;
+    color: #dda615;
     font-size: 10px;
 }
 .testimonials .owl-theme .owl-nav {
@@ -1085,7 +1085,7 @@ body.offcanvas .pwe-nav-toggle {
     font-size: 13px;
     font-weight: 400;
     margin-top: 0px;
-    color: #a2783a;
+    color: #dda615;
     text-transform: uppercase;
     font-family: 'Nunito Sans', sans-serif;
     letter-spacing: 1px;
@@ -1253,10 +1253,10 @@ body.offcanvas .pwe-nav-toggle {
 }
 .portfolio .item .content h5:hover,
 .portfolio .item .content h5 a:hover {
-    color: #a2783a;
+    color: #dda615;
 }
 .portfolio .item .content h5 b {
-    color: #a2783a;
+    color: #dda615;
 }
 
 
@@ -1387,7 +1387,7 @@ button.mfp-arrow {
     font-style: italic;
 }
 .blog .item .content .tag a:hover {
-    color: #a2783a;
+    color: #dda615;
 }
 .blog .item .content h5 {
     font-size: 17px;
@@ -1494,7 +1494,7 @@ button.mfp-arrow {
     border: 1px solid transparent;
 }
 .pwe-sidebar-search-submit:hover {
-    background: #a2783a;
+    background: #dda615;
     border: 1px solid transparent;
 }
 /* categories */
@@ -1518,7 +1518,7 @@ button.mfp-arrow {
     -o-transition: all 0.3s ease-out;
 }
 .ul1 > li a:hover {
-    color: #a2783a;
+    color: #dda615;
     text-decoration: none;
 }
 /* latest */
@@ -1546,7 +1546,7 @@ button.mfp-arrow {
     -o-transition: all 0.3s ease-out;
 }
 .latest a:hover .txt1 {
-    color: #a2783a;
+    color: #dda615;
 }
 /* tags keywords */
 .tags {
@@ -1712,7 +1712,7 @@ ol.comment-list li.comment .reply a {
     color: #666;
 }
 ol.comment-list li.comment .reply a:hover {
-    color: #a2783a;
+    color: #dda615;
 }
 ol.comment-list li .children {
     list-style: none;
@@ -1872,7 +1872,7 @@ ol.comment-list li .children li {
     display: block;
     font-family: TuesdayNight;
     font-size: 24px;
-    color: #a2783a;
+    color: #dda615;
     font-weight: 500;
     letter-spacing: 1px;
 }
@@ -1882,7 +1882,7 @@ ol.comment-list li .children li {
     vertical-align: super;
 }
 #pwe-footer2 h6 {
-    color: #a2783a;
+    color: #dda615;
     margin-bottom: 0;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -1918,8 +1918,8 @@ ol.comment-list li .children li {
 }
 #pwe-footer2 .social a:hover {
     color: #000;
-    background: #a2783a;
-    border: 1px solid #a2783a;
+    background: #dda615;
+    border: 1px solid #dda615;
 }
 
 
