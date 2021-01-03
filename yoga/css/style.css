@@ -1357,7 +1357,9 @@ li.footer_list:hover{
 }
 
 /*filters*/
-
+.cbp {
+    margin-top: 25px;
+}
 .cbp-l-filters .cbp-filter-item {
     cursor: pointer;
     margin: 15px;
