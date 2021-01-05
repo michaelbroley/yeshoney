@@ -1080,7 +1080,7 @@ li.footer_list:hover{
 /******************************PROCESS PAGE START******************************/
 .header1_img{
     background: url(../img/process/header_img1.png);
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 .img{
     height: 100%;
