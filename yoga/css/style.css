@@ -1102,7 +1102,7 @@ li.footer_list:hover{
 }
 .header_tittle{
     text-align: center;
-    padding-top: static;
+    padding-top: 25%;
     padding-bottom: 5.5%;
     letter-spacing: 0;
     font-weight: 100 !important;
