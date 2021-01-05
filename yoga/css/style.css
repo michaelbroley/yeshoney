@@ -1121,7 +1121,7 @@ li.footer_list:hover{
 /******************DETAIL PROCESS SECTION START*****************/
 #detail_process{
     background: #f6f6f6;
-    overflow: hidden !important;
+    overflow: static !important;
 }
 .process_text{
     padding: 85px;
