@@ -303,7 +303,7 @@ a.before:before,a.after:after{
 .inner-window{
     background-color: white;
     display: block;
-    position: static;
+    position: fixed;
     top:0;
     right: 0;
     bottom: 0;
