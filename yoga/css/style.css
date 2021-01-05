@@ -303,7 +303,7 @@ a.before:before,a.after:after{
 .inner-window{
     background-color: white;
     display: block;
-    position: fixed;
+    position: static;
     top:0;
     right: 0;
     bottom: 0;
@@ -1080,7 +1080,7 @@ li.footer_list:hover{
 /******************************PROCESS PAGE START******************************/
 .header1_img{
     background: url(../img/process/header_img1.png);
-    background-attachment: scroll;
+    background-attachment: fixed;
 }
 .img{
     height: 100%;
