@@ -2,16 +2,6 @@
                 About
    =================================== */
 
-/*
-    Theme Name: Product
-    Theme URI:
-    Author: Themes Industry
-    Author URI:
-    Description: One Page , Multi Parallax Template
-    Tags: One page, multi page, multipurpose, parallax, creative, html5
-
- */
-
 /***************Table of Content**************/
 /*  - Fonts
     - General Classes
@@ -124,7 +114,7 @@ a:hover{
     padding-top: 15px;
 }
 .navbar-appear {
-    z-index: ;
+    z-index: 11;
     position: fixed;
     top: 0;
     left:0;
@@ -146,7 +136,7 @@ a:hover{
 }
 .navbar.fixed-menu {
     padding: 15px 70px 15px 70px;
-    z-index: 11;
+    z-index: ;
     position: fixed;
     top: 0;
     left:0;
@@ -1067,9 +1057,12 @@ li.footer_list{
 }
 li.footer_list:hover{
     color: white;
-    background-color: #CAA8F5;
+    background-color: #d38f01;
     -webkit-animation: .8s ease;
     animation: .8s ease;
+}
+li.footer_list:link{
+    color: black;
 }
 .footer_text{
     text-align: center;
