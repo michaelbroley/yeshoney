@@ -124,7 +124,7 @@ a:hover{
     padding-top: 15px;
 }
 .navbar-appear {
-    z-index: 11;
+    z-index: ;
     position: fixed;
     top: 0;
     left:0;
